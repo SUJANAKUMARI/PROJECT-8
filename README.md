@@ -165,12 +165,6 @@ This is how the final job recommendation system looks on execution of app.py fil
 
 ![image](https://github.com/user-attachments/assets/83522530-9d5c-4bd3-9b58-aa74ee73c56c)
 
-## FINAL OUTPUT EXECUTION SCREEN SHARING
-
-![Project Video](Recording-20250129_233817)
-
 ## ACKNOWLEDGEMENT
 
 I would like to express my sincere gratitude to Ms. Twinkle Baid for her invaluable guidance, support, and mentorship throughout this project. Her expertise, encouragement, and constructive feedback have played a crucial role in shaping the direction of this work. 
-
-##
